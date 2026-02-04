@@ -1,4 +1,4 @@
-# GPU-HealthNet 🚀
+# GPU-HealthNet
 ### LSTM-Based GPU Anomaly Detection
 
 ## Overview
