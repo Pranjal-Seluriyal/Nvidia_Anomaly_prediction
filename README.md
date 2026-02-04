@@ -29,5 +29,5 @@ jupyter notebook gpu_anomaly_detection.ipynb
 - Pandas, NumPy
 - NVIDIA nvidia-smi
 
-## 📌 Disclaimer
+## Disclaimer
 This project detects abnormal GPU behavior, not physical hardware failure.
